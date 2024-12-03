@@ -2,7 +2,7 @@
 title: "BellaBeat Case study"
 author: "Aiswarya Babu"
 date: "2024-12-03"
-output: "github_document"
+output: "html_document"
 ---
 
 
